@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Cross-database mapping layer for Dual-DB JEPA perception-prediction spaces"
 license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/plato-cortex"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
